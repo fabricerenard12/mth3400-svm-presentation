@@ -21,11 +21,11 @@ This repository contains materials for a presentation on Support Vector Machines
 
 1. Clone the repository:
 
-`git clone https://github.com/your-username/mth3400-svm-presentation.git`
+```git clone https://github.com/your-username/mth3400-svm-presentation.git```
 
 2. Navigate to the appropriate directory:
 
-`cd mth3400-svm-presentation`
+```cd mth3400-svm-presentation```
 
 3. Explore the code, data, presentation slides, and report.
 
